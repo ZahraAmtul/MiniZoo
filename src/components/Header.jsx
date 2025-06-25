@@ -35,7 +35,7 @@ export default function Header() {
               <PawPrint className="w-8 h-8 text-pink-400 wiggle" />
               <Sparkles className="w-4 h-4 text-yellow-400 absolute -top-1 -right-1 animate-pulse" />
             </div>
-            <h1 className="text-3xl font-bold text-white rainbow">PetTopia</h1>
+            <h1 className="text-3xl font-bold text-white rainbow">MiniZoo</h1>
           </div>
           
           <div className="hidden md:flex space-x-8">

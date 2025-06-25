@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "PetTopia",
+  title: "MiniZoo",
   description: "Made By Amtul Zahra",
 };
 

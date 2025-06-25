@@ -6,7 +6,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-6 text-center">
           <div className="flex items-center justify-center space-x-2 mb-6">
             <PawPrint className="w-8 h-8 text-pink-400 wiggle" />
-            <h1 className="text-3xl font-bold text-white rainbow">PetTopia</h1>
+            <h1 className="text-3xl font-bold text-white rainbow">MiniZoo</h1>
             <Sparkles className="w-6 h-6 text-yellow-400 animate-pulse" />
           </div>
           
